@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ethereal 1.2-b2",
+    "platform": "Android (10-16)",
+    "version": "1.2 beta 2",
+    "size": "~10MB",
+    "note": "для SC 2.0F2 HD, могут быть баги.",
+    "url": "https://download.qazaqdlc.com/sc/1.2-b2/"
+  },
+  {
+    "name": "ethereal 1.5a [1]",
+    "platform": "Android (11-15)",
+    "version": "v1.0.0",
+    "size": "~10MB",
+    "note": "для PE 11.0, очень нестабильный.",
+    "url": "https://download.qazaqdlc.com/evolution/a1/"
+  }
+]
