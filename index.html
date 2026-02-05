@@ -739,27 +739,15 @@
       }
     });
 
-    downloadBtn.addEventListener("click", () => {
+   downloadBtn.addEventListener("click", () => {
       const f = FILES[selectedIndex];
       if(!f?.url) return;
 
-      iStatus.textContent = `downloading: ${f.name}`;
-
-      const a = document.createElement("a");
-      a.href = f.url;
-      a.rel = "noopener";
-      a.target = "_blank";
-      a.download = "";
-      document.body.appendChild(a);
-      a.click();
-      a.remove();
-
-      window.setTimeout(() => {
-        iStatus.textContent = "done";
-      }, 900);
-    });
-
-    downloadBtn.addEventListener("pointermove", (e) => {
+      iStatus.textContent = `redirecting: ${f.name}`;
+      window.location.assign(f.url);
+   });
+    
+   downloadBtn.addEventListener("pointermove", (e) => {
       const r = downloadBtn.getBoundingClientRect();
       const mx = ((e.clientX - r.left) / r.width) * 100;
       const my = ((e.clientY - r.top) / r.height) * 100;
