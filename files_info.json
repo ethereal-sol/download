@@ -14,5 +14,13 @@
     "size": "~10MB",
     "note": "для PE 11.0, очень нестабильный.",
     "url": "https://download.qazaqdlc.com/evolution/a1/"
-  }
+  },
+  {
+    "name": "ethereal 1.5a [2]",
+    "platform": "Android (11-15)",
+    "version": "1.5 alpha 2",
+    "size": "~10MB",
+    "note": "патч, теперь стабильнее.",
+    "url": "https://download.qazaqdlc.com/evolution/a2/"
+  },
 ]
