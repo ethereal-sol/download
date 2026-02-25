@@ -1,11 +1,11 @@
 [
   {
-    "name": "ethereal 1.5a3 [2]",
-    "platform": "Android (11-15)",
-    "version": "1.5 alpha 3 [second variant]",
+    "name": "ethereal 1.5a3 [3]",
+    "platform": "Android (10-16)",
+    "version": "1.5 alpha 3 [third variant]",
     "size": "~10MB",
-    "note": "починили последние вылеты, исправили esp, улучшили анимации.",
-    "url": "https://download.qazaqdlc.com/evolution/a3.2/"
+    "note": "добавили большие головы.",
+    "url": "https://download.qazaqdlc.com/evolution/a3.3/"
   },
   {
     "name": "ethereal 1.2-b2",
