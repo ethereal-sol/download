@@ -1,11 +1,11 @@
 [
   {
-    "name": "ethereal 1.5b [1]",
+    "name": "ethereal 1.5b [3]",
     "platform": "Android (10-16)",
-    "version": "1.5 beta 1",
-    "size": "~15MB",
-    "note": "улучшили большие головы, оптимизировали.",
-    "url": "https://download.qazaqdlc.com/evolution/1.5b/1/"
+    "version": "1.5 beta 3",
+    "size": "~11MB",
+    "note": "Исправили вылеты. Переписали часть кода.",
+    "url": "https://download.qazaqdlc.com/evolution/1.5b/3/"
   },
   {
     "name": "ethereal 1.5s (b1-v1)",
@@ -14,13 +14,5 @@
     "size": "~14MB",
     "note": "",
     "url": "https://download.qazaqdlc.com/evolution/1.5s/b1-v1/"
-  },
-  {
-    "name": "ethereal 1.2-b2",
-    "platform": "Android (10-16)",
-    "version": "1.2 beta 2",
-    "size": "~10MB",
-    "note": "для SC 2.0F2 HD, могут быть баги.",
-    "url": "https://download.qazaqdlc.com/sc/1.2-b2/"
   }
 ]
