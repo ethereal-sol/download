@@ -1,11 +1,11 @@
 [
   {
-    "name": "ethereal 1.5b [3]",
+    "name": "ethereal 1.5b [4]",
     "platform": "Android (10-16)",
-    "version": "1.5 beta 3",
+    "version": "1.5 beta 4",
     "size": "~11MB",
     "note": "Исправили вылеты. Переписали часть кода.",
-    "url": "https://download.qazaqdlc.com/evolution/1.5b/3/"
+    "url": "https://download.qazaqdlc.com/evolution/1.5b/4/"
   },
   {
     "name": "ethereal 1.5s (b1-v1)",
