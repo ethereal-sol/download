@@ -1,18 +1,10 @@
 [
   {
-    "name": "ethereal 1.5r1",
+    "name": "ethereal 1.5r2",
     "platform": "Android (9-16)",
-    "version": "1.5r1",
+    "version": "1.5r2",
     "size": "~11MB",
     "note": "",
-    "url": "https://download.qazaqdlc.com/evolution/1.5r/1/"
-  },
-  {
-    "name": "ethereal 1.5s (b1-v1)",
-    "platform": "Android (10-16)",
-    "version": "1.5s (b1-v1)",
-    "size": "~14MB",
-    "note": "",
-    "url": "https://download.qazaqdlc.com/evolution/1.5s/b1-v1/"
+    "url": "https://download.qazaqdlc.com/evolution/1.5r/2/"
   }
 ]
